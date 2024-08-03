@@ -1,0 +1,54 @@
+body
+{
+   background-color: #31363F;
+}
+
+.heroandnav
+{
+    /* grid-template-rows: 1fr 5fr; */
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url("../images/vecteezy_high-tech-futuristic-abstract-digital-motherboard-circuit_27441194.gif");
+    
+}   
+
+.pfp
+{
+    border-radius: 50%;
+}
+
+.media-icon
+{
+    color: #EEEEEE;
+    height: 35px;
+    width: 35px;
+}
+
+.nav-list li a
+{
+    font-size: 18px;
+    color: #d6d6d6;
+    
+}
+
+.nav-list li a:hover
+{
+    color: #bebebe;
+    
+}
+
+.heroandnav .hero
+{
+    height: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me
+{
+    height: 500px;
+    width: 100vw;
+  
+}
