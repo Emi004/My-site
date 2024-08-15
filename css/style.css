@@ -91,19 +91,19 @@ body
 .pixel-lg
 {
     font-weight: 500;
-    font-size: 64px;
+    font-size: 4rem;
     color: #d6d6d6;
 }
 .pixel-md
 {
     font-weight: 400;
-    font-size: 32px;
+    font-size: 2rem;
     
 }
 .pixel-sm
 {
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #d6d6d6;
 }
 
